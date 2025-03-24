@@ -1,0 +1,13 @@
+.input-wrapper .label {
+  display: inline-block;
+  font-size: 15px;
+  line-height: 1.3;
+  color: #989898;
+  transition: 0.3s;
+  backface-visibility: hidden;
+  transform: translateX(0) scale(1);
+  margin-right: 10px;
+}
+.input-wrapper {
+  margin-right: 10px;
+}
